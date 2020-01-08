@@ -1,0 +1,20 @@
+{
+  "web": {
+    "build_upload_test": {
+      "host": "47.111.228.207",
+      "port": 22,
+      "user": "root",
+      "password": "Zs123456",
+      "entryDir": "dist",
+      "serviceDir": "/usr/local/tomcat/webapps/test"
+    },
+    "build_upload_pro": {
+      "host": "47.111.228.207",
+      "port": 22,
+      "user": "root",
+      "password": "Zs123456",
+      "entryDir": "dist",
+      "serviceDir": "/usr/local/tomcat/webapps/test"
+    }
+  }
+}
