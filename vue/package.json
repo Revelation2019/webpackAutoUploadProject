@@ -59,7 +59,7 @@
     "webpack": "^3.6.0",
     "webpack-auto-upload-j": "file:../../../自动部署插件/webpack_auto_upload_j",
     "webpack-bundle-analyzer": "^2.9.0",
-    "webpack-dev-server": "^2.9.1",
+    "webpack-dev-server": "^3.1.11",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
