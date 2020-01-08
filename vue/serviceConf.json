@@ -1,7 +1,7 @@
 {
   "web": {
     "build_upload_test": {
-      "host": "47.111.228.207",
+      "host": "xxx.xxx.xxx.xxx",
       "port": 22,
       "user": "root",
       "password": "Zs123456",
@@ -9,7 +9,7 @@
       "serviceDir": "/usr/local/tomcat/webapps/test"
     },
     "build_upload_pro": {
-      "host": "47.111.228.207",
+      "host": "xxx.xxx.xxx.xxx",
       "port": 22,
       "user": "root",
       "password": "Zs123456",
